@@ -1,15 +1,7 @@
-.dashboard {
+.main-cont {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
   width: 100%;
-}
-
-.dashboard-main {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  flex-direction: row;
 }
